@@ -17,13 +17,13 @@
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>co.yaqut.dpl.app.test</string>
+                                <string>com.jarirbookstore.JBMarketingApp</string>
                                 <key>bundle-version</key>
-                                <string>2.7</string>
+                                <string>4.5.9</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
-                                <string>DPL</string>
+                                <string>Jarir.com</string>
                         </dict>
                 </dict>
         </array>
